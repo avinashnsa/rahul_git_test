@@ -1,0 +1,63 @@
+[
+  {
+    "description": "    Feature Description",
+    "keyword": "Feature",
+    "name": "Testing Alerts",
+    "line": 1,
+    "id": "testing-alerts",
+    "tags": [],
+    "uri": "alerts.feature",
+    "elements": [
+      {
+        "id": "testing-alerts;testing-alerts",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Testing Alerts",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I visited to site",
+            "result": {
+              "status": "passed",
+              "duration": 7486000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I click on alert btn",
+            "result": {
+              "status": "passed",
+              "duration": 359000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I click on confirm btn",
+            "result": {
+              "status": "passed",
+              "duration": 496000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "windows:alert text printed",
+            "result": {
+              "status": "passed",
+              "duration": 24000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

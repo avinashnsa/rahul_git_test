@@ -1,0 +1,9 @@
+{
+  "env": {
+    "url": "https://rahulshettyacademy.com/angularpractice/"
+  },
+  "projectId": "w5dycf",
+  "reporter":"mochawesome",
+
+"testFiles": "**/*.feature"
+}
