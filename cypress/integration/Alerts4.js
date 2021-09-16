@@ -1,5 +1,5 @@
 /// <reference types='Cypress'/>
-describe('My First suite',function(){
+describe('My First1 suite',function(){
     it('My first alerts',function(){
         cy.visit('https://rahulshettyacademy.com/AutomationPractice/')
         cy.get('#alertbtn').click()
